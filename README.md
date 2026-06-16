@@ -1,7 +1,7 @@
 <h2 align="center"> Looking Beyond Visible Cues: Implicit Video Question Answering via Dual-Clue Reasoning </a></h2>
 
 ## 📰 News
-[2024.09.26] 🔥🔥🔥 Our I-VQA is accepted by **IJCV**!
+[2026.06.16] 🔥🔥🔥 Our I-VQA is accepted by **IJCV**!
 
 ## 📊 I-VQA Dataset
 Our I-VQA dataset includes 5,549 QA samples, where 3,749 samples are for the training set and 1,800 samples are split into the test set.
